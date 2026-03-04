@@ -17,3 +17,8 @@ lib64/
 venv/
 .venv/
 env/
+
+# Media files - These should not be in the repository
+*.mp4
+*.avi
+*.mov
